@@ -5,7 +5,7 @@ public class Restaurant {
     private  String address;
     private  String openTime;
 
-    public Restaurant(String name, String address, String openTime{
+    public Restaurant(String name, String address, String openTime){
         this.name = name;
         this.address = address;
         this.openTime = openTime;
